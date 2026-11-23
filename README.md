@@ -21,8 +21,3 @@ Desenvolveu-se uma automação completa utilizando a ferramenta **n8n** (self-ho
 
 ---
 
-## 🖼️ Print da Automação
-![Print do Fluxo no n8n](./print-automacao.png)
-
-## 📦 Como Importar o Fluxo
-Você pode importar o arquivo `fluxo-n8n.json` diretamente para a sua instância do n8n através da opção **Import from File** no menu lateral de workflows.
